@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/JugalTeam.png" width="100" height="100" alt="Jugal Team Logo" style="border-radius: 50%;" />
-  <h1>Jugal Team</h1>
+  <img src="https://github.com/The-Debuggers-Team.png" width="100" height="100" alt="Jugal Team Logo" style="border-radius: 50%;" />
+  <h1>The Debuggers Team</h1>
   <p><strong>Transforming real world challenges into digital solutions</strong></p>
 
   <a href="https://github.com/The-Debuggers-Team">
@@ -18,7 +18,7 @@
 
 ### 🚀 Our Featured Projects
 
-* (https://aayushbaralsite.wordpress.com/wp-content/uploads/2026/08/gemini_generated_image_ri2jomri2jomri2j-1-1.jpg) **[PeerPath](https://github.com/The-Debuggers-Team/PeerPath):** AAn academic workspace designed to solve the lack of well‑managed student platforms and unreliable AI solutions. PeerPath provides organized notes, daily study tracking, global peer connections, note sharing, and premium expert tuition — empowering students with structured, collaborative, and reliable learning.
+*🌐**[PeerPath](https://github.com/The-Debuggers-Team/PeerPath):** AAn academic workspace designed to solve the lack of well‑managed student platforms and unreliable AI solutions. PeerPath provides organized notes, daily study tracking, global peer connections, note sharing, and premium expert tuition — empowering students with structured, collaborative, and reliable learning.
 
 ---
 
