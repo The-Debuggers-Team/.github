@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/The-Debuggers-Team.png" width="100" height="100" alt="Jugal Team Logo" style="border-radius: 50%;" />
   <h1>The Debuggers Team</h1>
-  <p><strong>Transforming real world challenges into digital solutions</strong></p>
+  <p><strong>Transforming real world challenges into digital solutions.</strong></p>
 
   <a href="https://github.com/The-Debuggers-Team">
     <img src="https://img.shields.io/badge/Organization-Nepal-000000?style=for-the-badge&logo=github&logoColor=white" alt="Organization Location" />
@@ -18,7 +18,7 @@
 
 ### 🚀 Our Featured Projects
 
-*🌐**[PeerPath](https://github.com/The-Debuggers-Team/PeerPath):** AAn academic workspace designed to solve the lack of well‑managed student platforms and unreliable AI solutions. PeerPath provides organized notes, daily study tracking, global peer connections, note sharing, and premium expert tuition — empowering students with structured, collaborative, and reliable learning.
+* 🌐 **[PeerPath](https://github.com/The-Debuggers-Team/PeerPath):** An academic workspace designed to solve the lack of well‑managed student platforms and unreliable AI solutions. PeerPath provides organized notes, daily study tracking, global peer connections, note sharing, and premium expert tuition empowering students with structured, collaborative, and reliable learning.
 
 ---
 
